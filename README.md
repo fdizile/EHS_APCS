@@ -9,3 +9,4 @@ This is a CodeHS source repo for the 5th Period AP Computer Science Class using 
 - Added CodeHS excercises for Module 7 (AP Practice/Review) **[v1.0]**
 - Made new folder structure **[v1.0.1]**
 - Added a README **[v1.0.2]**
+- Added a GitIgnore **[v1.0.3]**
